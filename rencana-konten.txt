@@ -3,6 +3,7 @@ Rencana konten andri
 Javascript
 *ES6
 *Framework Javascript
+Struktur Data Dasar
 PHP FRAMEWORK 
 INTERVIEWS
 VLOG
