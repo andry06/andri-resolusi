@@ -1,6 +1,8 @@
 Rencana konten andri
 
 Javascript
+*ES6
+*Framework Javascript
 PHP FRAMEWORK 
 INTERVIEWS
 VLOG
