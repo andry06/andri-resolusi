@@ -3,7 +3,9 @@ Rencana konten andri
 Javascript
 *ES6
 *Framework Javascript
-Struktur Data Dasar
+ ^ Angular
+ ^ React
 PHP FRAMEWORK 
+ ^ Laravel
 INTERVIEWS
 VLOG
